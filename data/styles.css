@@ -7,6 +7,12 @@
   text-align:center;
   line-height:normal;
 }
+.box_1 {
+}
+.box_2 {
+}
+.box_3 {
+}
 .ellipse {
 }
 ._图片 {
@@ -83,6 +89,11 @@
   text-align:left;
 }
 .icon {
+}
+._文本段落2 {
+  font-size:13px;
+  color:#000000;
+  text-align:left;
 }
 ._形状1 {
   font-size:13px;
