@@ -222,21 +222,21 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:280px;
-  height:227px;
+  width:257px;
+  height:200px;
 }
 #u13 {
   position:absolute;
-  left:47px;
-  top:30px;
-  width:280px;
-  height:227px;
+  left:58px;
+  top:43px;
+  width:257px;
+  height:200px;
 }
 #u14 {
   position:absolute;
   left:2px;
-  top:106px;
-  width:276px;
+  top:92px;
+  width:253px;
   visibility:hidden;
   word-wrap:break-word;
 }
