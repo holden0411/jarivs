@@ -61,6 +61,15 @@
 ._文本段落 {
   text-align:left;
 }
+.droplist {
+  color:#000000;
+  text-align:left;
+}
+.tree_node {
+  text-align:left;
+}
+.menu_item {
+}
 ._流程形状 {
 }
 ._文本段落1 {
@@ -71,6 +80,8 @@
 ._图片1 {
   font-size:13px;
   color:#000000;
+}
+._垂直线 {
 }
 ._形状 {
   font-size:16px;
@@ -84,6 +95,11 @@
   text-align:left;
 }
 ._单选按钮 {
+  font-size:13px;
+  color:#000000;
+  text-align:left;
+}
+._多行文本框 {
   font-size:13px;
   color:#000000;
   text-align:left;
